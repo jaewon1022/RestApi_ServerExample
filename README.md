@@ -6,6 +6,11 @@ https://www.mongodb.com/try/download/community
 
 ## Installation & Settings
 ```bash
+** In CMD **
+$ mongod
+$
+
+**In Git Bash**
 $ npm init
 
 $ npm install koa
